@@ -1,4 +1,4 @@
-# BABA Wallet: The Credits Blockchain Wallet
+# BABA Wallet: The First Credits Blockchain Wallet
 
 ![Version](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
@@ -21,7 +21,7 @@
 
 ## 📥 Download & Installation
 
-### Option 1: Direct APK Download (Recommended)
+### Option 1: Direct APK Download
 You can download the latest signed APK directly from the "Releases" section of this repository.
 
 1.  **[Click here to open the Release Page (v1.0)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.0)**.
