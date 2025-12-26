@@ -59,7 +59,7 @@ SHA-256:  d77a869b38be5185784fe9ec349ce3e801b903315de9e1abf348a9eda6f209c4
 BABA Wallet is a utility tool for the Credits Blockchain.
 * This application does **not** provide financial advice, loans, or banking services.
 * Transactions on the blockchain are irreversible.
-* The developer is not responsible for lost keys or funds due to user error. Please back up your mnemonic phrase securely.
+* The developer is not responsible for lost keys or funds due to user error. Please back up your private key(s) securely.
 
 ---
 
