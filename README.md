@@ -1,4 +1,4 @@
-# BABA Wallet: The Credits Blockchain Wallet
+# BABA Wallet: The first non-custodial wallet for Credits Blockchain
 
 ![Version](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
