@@ -1,4 +1,4 @@
-# BABA Wallet: The first non-custodial wallet for Credits Blockchain
+# BABA Wallet: The Credits Blockchain Wallet
 
 ![Version](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
@@ -44,6 +44,13 @@ To ensure the APK you downloaded has not been tampered with, you can verify its 
 ```text
 Filename: BABA-Wallet-v1.0.apk
 SHA-256:  d77a869b38be5185784fe9ec349ce3e801b903315de9e1abf348a9eda6f209c4
+```
+
+*How to verify:*
+* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v1.0.apk`
+* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v1.0.apk`
+
+**Note:** The output code must match the SHA-256 line above exactly.
 
 ---
 
