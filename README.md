@@ -32,7 +32,7 @@ You can download the latest signed APK directly from the "Releases" section of t
 ### Option 2: App Stores
 * **Uptodown:** [Pending Review]
 * **Cafe Bazaar:** [Coming Soon]
-* **Myket:** [Coming Soon]
+* **Play Store:** [Next Target for Future]
 
 ---
 
