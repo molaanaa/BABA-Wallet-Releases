@@ -24,9 +24,9 @@
 ### Option 1: Direct APK Download
 You can download the latest signed APK directly from the "Releases" section of this repository.
 
-1.  **[Click here to open the Release Page (v1.0)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.0)**.
+1.  **[Click here to open the Release Page (v1.0.13)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.0.13)**.
 2.  Scroll down to the **Assets** section.
-3.  Click on `BABA-Wallet-v1.0.apk` to download.
+3.  Click on `BABA-Wallet-v1.0.13.apk` to download.
 4.  Install on your Android device (You may need to allow "Install from unknown sources").
 
 ### Option 2: App Stores
@@ -40,10 +40,10 @@ You can download the latest signed APK directly from the "Releases" section of t
 
 To ensure the APK you downloaded has not been tampered with, you can verify its **SHA-256** fingerprint.
 
-**Release Tag: v1.0**
+**Release Tag: v1.0.13**
 ```text
 Filename: BABA-Wallet-v1.0.apk
-SHA-256:  8fee9c70e0ac2cb0988a2ad43bf22c9ff94c1afabb9f93b27f3f4e12552d418e
+SHA-256:  fa43e7d3623c2339f49cd2655601f8334806a3da5c9c843e2d64a323954e161f
 ```
 
 *How to verify:*
