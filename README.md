@@ -42,13 +42,13 @@ To ensure the APK you downloaded has not been tampered with, you can verify its 
 
 **Release Tag: v1.0.13**
 ```text
-Filename: BABA-Wallet-v1.0.apk
+Filename: BABA-Wallet-v1.0.13.apk
 SHA-256:  fa43e7d3623c2339f49cd2655601f8334806a3da5c9c843e2d64a323954e161f
 ```
 
 *How to verify:*
-* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v1.0.apk`
-* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v1.0.apk`
+* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v1.0.13.apk`
+* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v1.0.13.apk`
 
 **Note:** The output code must match the SHA-256 line above exactly.
 
