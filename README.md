@@ -70,4 +70,4 @@ Encountered a bug or have a feature request?
 * **Email:** support@molaanaa.com
 
 ---
-*Developed by Rayan Pardaz Molaanaa. Copyright 2025.*
+*Developed by Rayan Afzar Molaanaa. Copyright 2026.*
