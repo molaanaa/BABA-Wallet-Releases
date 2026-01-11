@@ -30,7 +30,7 @@ You can download the latest signed APK directly from the "Releases" section of t
 4.  Install on your Android device (You may need to allow "Install from unknown sources").
 
 ### Option 2: App Stores
-* **Uptodown:** [Pending Review]
+* **Uptodown:** [Download](https://baba-wallet.en.uptodown.com/android)
 * **Cafe Bazaar:** [Coming Soon]
 * **Play Store:** [Next Target for Future]
 
