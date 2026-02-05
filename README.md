@@ -1,6 +1,6 @@
 # BABA Wallet: The First Credits Blockchain Wallet
 
-![Version](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
+![Version](https://img.shields.io/badge/version-1.1.1-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 **BABA Wallet** is a secure, non-custodial mobile wallet designed specifically for the **Credits (CS)** blockchain network. It provides a simple, fast, and secure interface for managing your crypto assets without intermediaries.
 
