@@ -1,6 +1,6 @@
 # BABA Wallet: The First Credits Blockchain Wallet
 
-![Version](https://img.shields.io/badge/version-1.2-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
+![Version](https://img.shields.io/badge/version-1.2.1-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 **BABA Wallet** is a secure, non-custodial mobile wallet designed specifically for the **Credits (CS)** blockchain network. It provides a simple, fast, and secure interface for managing your crypto assets without intermediaries.
 
@@ -24,9 +24,9 @@
 ### Option 1: Direct APK Download
 You can download the latest signed APK directly from the "Releases" section of this repository.
 
-1.  **[Click here to open the Release Page (v1.2)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.2)**.
+1.  **[Click here to open the Release Page (v1.2.1)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.2.1)**.
 2.  Scroll down to the **Assets** section.
-3.  Click on `BABA-Wallet-v1.2.apk` to download.
+3.  Click on `BABA-Wallet-v1.2.1.apk` to download.
 4.  Install on your Android device (You may need to allow "Install from unknown sources").
 
 ### Option 2: App Stores
@@ -40,15 +40,15 @@ You can download the latest signed APK directly from the "Releases" section of t
 
 To ensure the APK you downloaded has not been tampered with, you can verify its **SHA-256** fingerprint.
 
-**Release Tag: v1.2**
+**Release Tag: v1.2.1**
 ```text
-Filename: app-release.apk
-SHA-256:  34203b016046ea78f6a5a9bc273438e8586546c542029f0abb728984ab7c51fa
+Filename: BABA-Wallet-v1.2.1.apk
+SHA-256:  bbff828e0e309c843f34e13ce67b77a0e9f873aea61222ae4965bf4bdfe0f485
 ```
 
 *How to verify:*
-* **Mac/Linux:** Open terminal and run `shasum -a 256 app-release.apk`
-* **Windows:** Open PowerShell and run `Get-FileHash app-release.apk`
+* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v1.2.1.apk`
+* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v1.2.1.apk`
 
 **Note:** The output code must match the SHA-256 line above exactly.
 
