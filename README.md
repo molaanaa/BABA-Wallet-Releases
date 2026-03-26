@@ -43,7 +43,7 @@ To ensure the APK you downloaded has not been tampered with, you can verify its 
 **Release Tag: v1.2.6**
 ```text
 Filename: BABA-Wallet-v1.2.6.apk
-SHA-256:  a55cd375625d3404ce79f5bf3b9a1044d64c6752fea987f655b90096759118d9
+SHA-256:  ab0afed8c5b609ec71c80abdf9076642d04cb6ea976a8ff6255d82f0ad34301d
 ```
 
 *How to verify:*
