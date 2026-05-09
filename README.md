@@ -24,7 +24,7 @@
 ### Option 1: Direct APK Download
 You can download the latest signed APK directly from the "Releases" section of this repository.
 
-1.  **[Click here to open the Release Page (v.1.2.9)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v.1.2.9)**.
+1.  **[Click here to open the Release Page (v.1.2.9)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.2.9)**.
 2.  Scroll down to the **Assets** section.
 3.  Click on `BABA-Wallet-v.1.2.9.apk` to download.
 4.  Install on your Android device (You may need to allow "Install from unknown sources").
