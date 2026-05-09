@@ -24,9 +24,9 @@
 ### Option 1: Direct APK Download
 You can download the latest signed APK directly from the "Releases" section of this repository.
 
-1.  **[Click here to open the Release Page (v1.2.8)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v1.2.8)**.
+1.  **[Click here to open the Release Page (v.1.2.9)](https://github.com/molaanaa/BABA-Wallet-Releases/releases/tag/v.1.2.9)**.
 2.  Scroll down to the **Assets** section.
-3.  Click on `BABA-Wallet-v1.2.8.apk` to download.
+3.  Click on `BABA-Wallet-v.1.2.9.apk` to download.
 4.  Install on your Android device (You may need to allow "Install from unknown sources").
 
 ### Option 2: App Stores
@@ -40,15 +40,15 @@ You can download the latest signed APK directly from the "Releases" section of t
 
 To ensure the APK you downloaded has not been tampered with, you can verify its **SHA-256** fingerprint.
 
-**Release Tag: v1.2.8**
+**Release Tag: v.1.2.9**
 ```text
-Filename: BABA-Wallet-v1.2.8.apk
-SHA-256:  914d59869b8513d7a55eba1f095773b2ca5415bcb474d4ca32f8913cc8a349f7
+Filename: BABA-Wallet-v.1.2.9.apk
+SHA-256:  1f8f7882de8cddf5de3091127eec5a314c81894b8d14a07a5850d190a26949e7
 ```
 
 *How to verify:*
-* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v1.2.8.apk`
-* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v1.2.8.apk`
+* **Mac/Linux:** Open terminal and run `shasum -a 256 BABA-Wallet-v.1.2.9.apk`
+* **Windows:** Open PowerShell and run `Get-FileHash BABA-Wallet-v.1.2.9.apk`
 
 **Note:** The output code must match the SHA-256 line above exactly.
 
